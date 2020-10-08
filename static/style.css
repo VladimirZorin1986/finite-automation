@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(90deg, #b9deed, #efefef);
+}
+
+h2 {
+    font-family: Oswald;
+    font-style: italic;
+}
+
+h3 {
+    font-family: Oswald;
+    font-style: italic;
+}
+
+#one {
+    background: #C0C0C0;
+}
+
+#two {
+    background: #778899;
+}
+
+#three {
+    background: #FFFFFF;
+}
+
+#four {
+    background: #C0C0C0;
+}
